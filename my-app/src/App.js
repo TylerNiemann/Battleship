@@ -1,7 +1,6 @@
 import React from 'react';
 import GameWindow from './components/game_window/GameWindow';
 import HeaderComponent from './components/header/Header';
-import Footer from './components/footer/Footer';
 import {
 	StyledApp,
 	Header,
@@ -19,7 +18,6 @@ function App() {
 				<GameWindowContainer>
 					<GameWindow />
 				</GameWindowContainer>
-				<Footer />
 			</StyledApp>
 		</GameController>
 	);

@@ -15,6 +15,9 @@ function Init({ setDismount, dismount }) {
 		setName(e.target.value);
 	};
 
+	const handleFocus = () => {
+	};
+
 	const handleSubmit = (e) => {
 		// do not refresh page
 		e.preventDefault();
@@ -64,6 +67,7 @@ function Init({ setDismount, dismount }) {
 					id='name'
 					placeholder='Battleship combatant'
 					onChange={handleChange}
+					onFocus={handleFocus}
 					autoComplete='off'
 					value={name}
 				/>

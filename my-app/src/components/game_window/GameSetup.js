@@ -54,7 +54,6 @@ function GameSetup({ dismount, setDismount, fadeOutMusic }) {
 			});
 			// check if this is the last ship to be placed
 			if (currentShip >= 4) {
-				fadeOutMusic();
 				// Computer will place ships
 				placeComputerShips(dispatch, state.players.computer.gameBoard);
 				setDismount(true);
