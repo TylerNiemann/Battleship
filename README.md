@@ -14,7 +14,7 @@ This version of the game is designed to be played online, with intuitive control
 To play the game, simply click on the following link: https://tylerniemann.github.io/Battleship/
 
 ## Screenshots
-![Battleship Start](main/my-app/public/startscreen.png)
+![Battleship Start](public/startscreen.png)
 
 ## Instructions
 
