@@ -16,6 +16,14 @@ To play the game, simply click on the following link: https://tylerniemann.githu
 ## Screenshots
 ![Battleship Start](my-app/public/startscreen.PNG)
 
+![Battleship Place](my-app/public/placementscreeen.PNG)
+
+![Battleship Miss](my-app/public/misssscreen.PNG)
+
+![Battleship Hit](my-app/public/hitscreen.PNG)
+
+![Battleship Win](my-app/public/winnerscreen.PNG)
+
 ## Instructions
 
 1.Upon opening the game and after entering your name, you will be presented with the game board.
