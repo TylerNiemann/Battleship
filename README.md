@@ -15,19 +15,19 @@ To play the game, simply click on the following link: https://tylerniemann.githu
 
 ## Instructions
 
-1.Upon opening the game and after entering your name, you will be presented with the game board.
+1. Upon opening the game and after entering your name, you will be presented with the game board.
 
-2.Place your ships on the grid by clicking on the desired cells.
+2. Place your ships on the grid by clicking on the desired cells.
 
-3.Once all ships are placed, take turns guessing the positions of your opponent's ships.
+3. Once all ships are placed, take turns guessing the positions of your opponent's ships.
 
-4.Click on the cells on the opponent's grid to make your guesses.
+4. Click on the cells on the opponent's grid to make your guesses.
 
-5.The game will indicate whether your guess was a hit or a miss.
+5. The game will indicate whether your guess was a hit or a miss.
 
-6.Continue guessing until all ships of either player are sunk.
+6. Continue guessing until all ships of either player are sunk.
 
-7.The game will display the winner and allow you to start a new game.
+7. The game will display the winner and allow you to start a new game.
 
 ## Screenshots
 ![Battleship Start](my-app/public/startscreen.PNG)
