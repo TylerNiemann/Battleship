@@ -13,17 +13,6 @@ This version of the game is designed to be played online, with intuitive control
 
 To play the game, simply click on the following link: https://tylerniemann.github.io/Battleship/
 
-## Screenshots
-![Battleship Start](my-app/public/startscreen.PNG)
-
-![Battleship Place](my-app/public/placementscreeen.PNG)
-
-![Battleship Miss](my-app/public/misssscreen.PNG)
-
-![Battleship Hit](my-app/public/hitscreen.PNG)
-
-![Battleship Win](my-app/public/winnerscreen.PNG)
-
 ## Instructions
 
 1.Upon opening the game and after entering your name, you will be presented with the game board.
@@ -39,6 +28,17 @@ To play the game, simply click on the following link: https://tylerniemann.githu
 6.Continue guessing until all ships of either player are sunk.
 
 7.The game will display the winner and allow you to start a new game.
+
+## Screenshots
+![Battleship Start](my-app/public/startscreen.PNG)
+
+![Battleship Place](my-app/public/placementscreeen.PNG)
+
+![Battleship Miss](my-app/public/missscreen.PNG)
+
+![Battleship Hit](my-app/public/hitscreen.PNG)
+
+![Battleship Win](my-app/public/winnerscreen.PNG)
 
 ## Technologies Used
 
